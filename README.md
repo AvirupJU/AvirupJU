@@ -1,30 +1,60 @@
-# Halo! I am Avirup 👋
+# Halo! Avirup here.  👋
 
-## A bit about me...
-I am an undergraduate student who is annoyingly curious and driven on expanding my knowledge base. My interests broadly lie in:
-- ⚡ Deep Learning and Image Processing
-- ⚡ Making scripts for automation
-- ⚡ Web Development
+[![LinkedIn-Avirup-Dey][linkedin-logo]][linkedin-url]  <!-- Linked In -->
+[![Hackerrank-Avirup-Dey][hackerrank-logo]][hackerrank-url] <!--Hackerrank-->
 
-I believe that gaining knowledge is a never-ending process but still, here are some tools from my kit:
-### Deep Learning
+## About Me
 
-### Image Processing
+* I am an ETCE undergrad at Jadavpur University, India
+* Cureently a deep learning research assistant at DVLP-CMATER Lab, Jadavpur University
+* Selected as SERB scholar, Govt. of India to work on **Data Augmentation using Deep Learning for detection of *Ductal Carcinoma***
+* I code primarily in `Python` and `C`
 
-### Web Development
+## Deep Learning Skillset
+| ![np][np-logo] | ![pandas][pandas-logo] | ![sklearn][sklearn-logo]|
+|:---:|:---:|:---:|
+| ![keras][keras-logo] | ![pytorch][pytorch-logo] | ![p-lightning][pl-logo]|
 
-### Languages Known
+## Other Programming Languages
+|![c][c-logo]|![cpp][cpp-logo]|
+|:----:|:----:|
+|![mkdown][markdown-logo]|![shell][shell-logo]|
 
-### Version Control
+## Version Control
 
-<!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...-->
+|![git][git-logo]|![github][github-logo]|
+|----|----|
+<br>
+
+![Avirup's github stats][github-stats]
+
+<!-- Links -->
+
+<!-- Social Icons -->
+[linkedin-logo]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]:https://www.linkedin.com/in/avirup-dey-4213a81ab/
+
+[hackerrank-logo]:https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+[hackerrank-url]:https://www.hackerrank.com/avirupju
+
+<!-- Deep Learning-->
+[np-logo]:https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
+[pandas-logo]:https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white
+[keras-logo]:https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white
+[pytorch-logo]:https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white
+[pl-logo]:https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=PyTorch%20Lightning&ogoColor=white
+[sklearn-logo]:https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+
+<!--Other Programming Languages-->
+[c-logo]:https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white
+[cpp-logo]:https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white
+[markdown-logo]:https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white
+[shell-logo]:https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white
 
 
+<!-- Version Control -->
+[git-logo]:https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white
+[github-logo]:https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white
 
-[![Avirup's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvirupJU&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Github Stats -->
+[github-stats]:https://github-readme-stats.vercel.app/api?username=AvirupJU&show_icons=true&theme=merko 
