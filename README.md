@@ -6,7 +6,7 @@
 ## About Me
 
 * I am an ETCE undergrad at Jadavpur University, India
-* Cureently a deep learning research assistant at DVLP-CMATER Lab, Jadavpur University
+* Currently working as a deep learning research assistant at DVLP-CMATER Lab, Jadavpur University
 * Selected as SERB scholar, Govt. of India to work on **Data Augmentation using Deep Learning for detection of *Ductal Carcinoma***
 * I code primarily in `Python` and `C`
 
