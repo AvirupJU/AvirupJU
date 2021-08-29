@@ -15,7 +15,7 @@
 |:---:|:---:|:---:|
 | ![keras][keras-logo] | ![pytorch][pytorch-logo] | ![p-lightning][pl-logo]|
 
-## Other Skillso
+## Other Skills
 |![c][c-logo]|![cpp][cpp-logo]|
 |:----:|:----:|
 |![mkdown][markdown-logo]|![shell][shell-logo]|
