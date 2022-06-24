@@ -8,7 +8,7 @@
 * I am an ETCE undergrad at Jadavpur University, India
 * Currently working as a deep learning research assistant at DVLP-CMATER Lab, Jadavpur University
 * Selected as SERB scholar, Govt. of India to work on **Data Augmentation using Deep Learning for detection of *Ductal Carcinoma***
-* MITACS Globalink Intern at University of Ontario Insitute of Technology (UOIT) for the summer of 2022. Supervisor: [!Dr. Mehran Ebrahimi][https://scholar.google.com/citations?user=aNoW2O4AAAAJ&hl=en]
+* MITACS Globalink Intern at University of Ontario Insitute of Technology (UOIT) for the summer of 2022. Supervisor: [!Dr. Mehran Ebrahimi][mehran-link]
 * I code primarily in `Python` and `C`
 
 ## Deep Learning Skillset
@@ -30,7 +30,7 @@
 ![Avirup's github stats][github-stats]
 
 <!-- Links -->
-
+[mehran-link]:https://scholar.google.com/citations?user=aNoW2O4AAAAJ&hl=en
 <!-- Social Icons -->
 [linkedin-logo]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]:https://www.linkedin.com/in/avirup-dey-4213a81ab/
