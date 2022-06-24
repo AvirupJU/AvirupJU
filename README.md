@@ -8,7 +8,7 @@
 * I am an ETCE undergrad at Jadavpur University, India
 * Currently working as a deep learning research assistant at DVLP-CMATER Lab, Jadavpur University
 * Selected as SERB scholar, Govt. of India to work on **Data Augmentation using Deep Learning for detection of *Ductal Carcinoma***
-* MITACS Globalink Intern at University of Ontario Insitute of Technology (UOIT) for the summer of 2022. Supervisor: [Dr. Mehran Ebrahimi][mehran-link]
+* **MITACS Globalink Intern** at University of Ontario Insitute of Technology (UOIT) for the summer of 2022. Supervisor: [Dr. Mehran Ebrahimi][mehran-link]
 * I code primarily in `Python` and `C`
 
 ## Deep Learning Skillset
