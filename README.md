@@ -24,9 +24,9 @@
 
 |![git][git-logo]|![github][github-logo]|
 |----|----|
-<br>
+<be>
 
-![Avirup's github stats][github-stats]
+<!--![Avirup's github stats][github-stats]-->
 
 <!-- Links -->
 [mehran-link]:https://scholar.google.com/citations?user=aNoW2O4AAAAJ&hl=en
