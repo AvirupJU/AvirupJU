@@ -5,7 +5,7 @@
 
 ## About Me
 
-* PhD student at the Department of Computer Science, University of Bath
+* 1st Year PhD student at the Department of Computer Science, University of Bath
 * Previously an ETCE undergrad at Jadavpur University, India
 * Previously a Research Asst. at DVLP, CMATER Lab, Jadavpur University. Worked on vision models for medical data and historical document analysis.
 * **MITACS Globalink Intern** at the University of Ontario Insitute of Technology (UOIT) for the summer of 2022. Supervisor: [Dr. Mehran Ebrahimi][mehran-link]
