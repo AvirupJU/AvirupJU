@@ -1,13 +1,12 @@
 # Halo! Avirup here.  👋
 
 [![LinkedIn-Avirup-Dey][linkedin-logo]][linkedin-url]  <!-- Linked In -->
-[![Hackerrank-Avirup-Dey][hackerrank-logo]][hackerrank-url] <!--Hackerrank-->
+[![Scholar-Avirup-Dey][scholar-logo]][scholar-url] <!--Hackerrank-->
 
 ## About Me
 
-* 1st Year PhD student at the Department of Computer Science, University of Bath.
+* 2nd Year PhD student at the Department of Computer Science, University of Bath.
 * I work on 3D head models. :)
-* Previously an ETCE undergrad at Jadavpur University, India.
 * Previously a Research Asst. at DVLP, CMATER Lab, Jadavpur University. Worked on vision models for medical data and historical document analysis.
 * **MITACS Globalink Intern** at the University of Ontario Insitute of Technology (UOIT) for the summer of 2022. Supervisor: [Dr. Mehran Ebrahimi][mehran-link]
 
@@ -37,6 +36,9 @@
 
 [hackerrank-logo]:https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 [hackerrank-url]:https://www.hackerrank.com/avirupju
+
+[scholar-logo]:https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white
+[scholar-url]: https://scholar.google.com/citations?user=YoVyxGkAAAAJ&hl=en
 
 <!-- Deep Learning-->
 [np-logo]:https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
