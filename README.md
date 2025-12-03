@@ -5,8 +5,8 @@
 
 ## About Me
 
-* I am a 2nd Year PhD student at the Department of Computer Science, University of Bath.
-* I work on 3D head avatars and diffusion. 
+* I am a 3rd Year PhD student at the Department of Computer Science, University of Bath.
+* I work on digital humans and avatars. 
 <!--* Previously a Research Asst. at CMATER Lab, Jadavpur University. Worked on vision models for medical data and historical document analysis.
 * **MITACS Globalink Intern** at the University of Ontario Insitute of Technology (UOIT) for the summer of 2022. Supervisor: [Dr. Mehran Ebrahimi][mehran-link]-->
 
